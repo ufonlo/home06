@@ -1,6 +1,6 @@
 package homeWork06_01;
 
-public class booleansArrays {
+public class BooleansArrays {
 	public static void main(String[] args) {
 		int Size = 30;
 		boolean ArraysMasive[] = new boolean[Size];
